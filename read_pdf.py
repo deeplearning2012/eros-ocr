@@ -21,5 +21,5 @@ for page in pages:
     page.save('out.jpg', 'JPEG')
 '''
 
-#result = reader.readtext('0002514084.pdf')
-#print(result)
+result = reader.readtext('output/00025140840001-1.jpg')
+print(result)
