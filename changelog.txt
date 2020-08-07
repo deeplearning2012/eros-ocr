@@ -1,2 +1,3 @@
 2020-08-07
 init project
+add ocr test
